@@ -8,5 +8,5 @@
 3. Parametro para facilitar a adequação das fontes de base de dados na migração do arquivo.
 
 **Fonte dos dados**
-1. [COVID-19 Data Hub] (https://data.world/covid-19-data-resource-hub/covid-19-case-counts);
-2. [Worldometers] (https://www.worldometers.info/world-population/population-by-country/).
+1. [COVID-19 Data Hub](https://data.world/covid-19-data-resource-hub/covid-19-case-counts);
+2. [Worldometers](https://www.worldometers.info/world-population/population-by-country/).
