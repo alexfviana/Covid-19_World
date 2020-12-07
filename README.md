@@ -1,5 +1,5 @@
 # Covid-19_World
- [ Painel publicado na web](https://app.powerbi.com/view?r=eyJrIjoiMmFjODE5NWUtYTY3ZC00NDc5LWEzMWQtNGQyMTQxNWY0YzRhIiwidCI6ImVkZTA0ZTkzLTIzZTgtNDQ2OS1hNzE3LWJkNTQ5YWM3NTQ2ZSJ9&pageName=ReportSectiond382fa14702755ed2051) desenvolvido com o Power BI com as informaçoes da pandemia pelo mundo.
+ [ Painel publicado na web](https://app.powerbi.com/view?r=eyJrIjoiMmFjODE5NWUtYTY3ZC00NDc5LWEzMWQtNGQyMTQxNWY0YzRhIiwidCI6ImVkZTA0ZTkzLTIzZTgtNDQ2OS1hNzE3LWJkNTQ5YWM3NTQ2ZSJ9&pageName=ReportSectiond382fa14702755ed2051) desenvolvido com o Power BI com as informaçoes da pandemia pelo mundo. Para visualizá-lo clique [aqui.](https://app.powerbi.com/view?r=eyJrIjoiMmFjODE5NWUtYTY3ZC00NDc5LWEzMWQtNGQyMTQxNWY0YzRhIiwidCI6ImVkZTA0ZTkzLTIzZTgtNDQ2OS1hNzE3LWJkNTQ5YWM3NTQ2ZSJ9&pageName=ReportSectiond382fa14702755ed2051)
 
 **Destaques do projeto**
 1. Gráficos de casos e óbitos com parâmetro de média móvel, segmentado por continente e países;
