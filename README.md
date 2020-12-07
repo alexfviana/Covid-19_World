@@ -2,7 +2,7 @@
  [ Painel publicado na web](https://app.powerbi.com/view?r=eyJrIjoiMmFjODE5NWUtYTY3ZC00NDc5LWEzMWQtNGQyMTQxNWY0YzRhIiwidCI6ImVkZTA0ZTkzLTIzZTgtNDQ2OS1hNzE3LWJkNTQ5YWM3NTQ2ZSJ9&pageName=ReportSectiond382fa14702755ed2051) desenvolvido com o Power BI com as informaçoes da pandemia pelo mundo.
 
 **Destaques do projeto**
-1. Gráficos de casos e óbitos com parâmetro de média móvel, segmentado por continete e países;
+1. Gráficos de casos e óbitos com parâmetro de média móvel, segmentado por continente e países;
 2. Gráfico comparativo da curva de óbitos por milhão de habitantes entre países;
 3. Segmentação por geolocalização (faixa de latitude);
 3. Parametro para facilitar a adequação das fontes de base de dados na migração do arquivo.
